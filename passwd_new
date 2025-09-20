@@ -1,0 +1,19 @@
+rtkit:111:RealtimeKit,,,:/usr/sbin/nologin:::/bin/zsh
+dnsmasq:112:dnsmasq,,,:/usr/sbin/nologin:::/bin/zsh
+cups-pk-helper:113:user for cups-pk-helper service,,,:/usr/sbin/nologin:::/bin/zsh
+speech-dispatcher:114:Speech Dispatcher,,,:/bin/false:::/bin/zsh
+kernoops:116:Kernel Oops Tracking Daemon,,,:/usr/sbin/nologin:::/bin/zsh
+saned:117::/bin/bash:::/bin/zsh
+nm-openvpn:118:NetworkManager OpenVPN,,,:/usr/sbin/nologin:::/bin/zsh
+hplip:119:HPLIP system user,,,:/bin/false:::/bin/zsh
+whoopsie:120::/bin/false:::/bin/zsh
+geoclue:122::/usr/sbin/nologin:::/bin/zsh
+gnome-initial-setup:124::/bin/false:::/bin/zsh
+gdm:125:Gnome Display Manager:/bin/false:::/bin/zsh
+ac:1000:ac,,,:/usr/bin/zsh:::/bin/zsh
+systemd-coredump:999:systemd Core Dumper:/usr/sbin/nologin:::/bin/zsh
+_rpc:126::/usr/sbin/nologin:::/bin/zsh
+statd:127::/usr/sbin/nologin:::/bin/zsh
+vde2-net:128::/usr/sbin/nologin:::/bin/zsh
+stunnel4:129::/usr/sbin/nologin:::/bin/zsh
+::::::/bin/zsh
